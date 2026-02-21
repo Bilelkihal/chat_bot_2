@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vue Chatbot",
+  "description": "A full-stack AI chatbot built with Vue.js, Express, and SQLite, featuring conversation history and a login system.",
+  "requestFramePermissions": []
+}
